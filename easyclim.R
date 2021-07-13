@@ -12,7 +12,7 @@ coords <- data.frame(
   lon = -1.898575,
   lat = 52.489471
 )
-# UPDATE TOKEN!!!!
+
 ggplot() +
   borders(regions = "UK") +
   geom_point(data = coords, aes(x = lon, y = lat)) +
