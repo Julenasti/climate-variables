@@ -396,7 +396,8 @@ final_plot <- (gg_year_tmean + gg_year_prcp) /
       -Moreno A, Hasenauer H (2016). “Spatial downscaling of European climate data.” International Journal of Climatology, 1444–1458.
       -Rammer W, Pucher C, Neumann M (2018). Description, Evaluation and Validation of Downscaled Daily Climate Data Version 2.
       -Cruz-Alonso V, Rodríguez-Sánchez F, Pucher C, Ratcliffe S, Astigarraga J, Neumann M, Ruiz-Benito P (2021). easyclimate: Easy access to high-resolution daily climate data for Europe.
-    Graphic: All caring people doing open science",
+    Graphic: All the great people who do open science
+    Codes: https://github.com/Julenasti/climate-variables",
     theme = theme(
       plot.title = element_text(size = 24),
       plot.caption = element_text(hjust = 0)
